@@ -1,0 +1,5 @@
+Roadmap for Solution Starter
+
+This is the first iteration of the Visitor Request Solution Starter. It is my goal to have Microsoft Partners, etc. contribute to the solution and or use the solution and build off of it for their own IP. 
+
+Public sector or Private Organizations are welcome to contribute to the solution, submit additional feature requests to daparry@microsoft.com or download for their own use and or modification.
